@@ -37,3 +37,10 @@ De acordo com as normas do projeto, não são utilizadas bibliotecas padrão do 
 -
   ```bash
   java clienteKahoot {IP} {PORT} {ID_Jogo} {Equipa} {Username}
+
+## Autores:
+
+- Beatriz Nascimento nº 123302
+- Inês Portugal nº 123293
+  
+Este repositório é um fork do repositório original do grupo.
